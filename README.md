@@ -1,9 +1,9 @@
-# Kerim David — iOS & Web Developer 👋   (⌐■_■)
+# Karim Alsayed — iOS & Web Developer 👋   (⌐■_■)
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer (React, Firebase)**  
 Building production apps with elegant UX, reliable real-time systems, and payment flows that just work.
 
-[LinkedIn — Kerim David](https://www.linkedin.com/in/kerim-david-b93439127/) • [Hire me on Upwork](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share) • [Resume](https://ka.budgo.net)
+[LinkedIn — Karim A.](https://www.linkedin.com/in/kerim-david-b93439127/) • [Hire me on Upwork](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share) • [Resume](https://ka.budgo.net)
 ---
 
 <!-- Hero image / demo -->
