@@ -1,5 +1,21 @@
 # Kerim David — iOS & Web Developer 👋   (⌐■_■)
 
+
+
+  <span style="color:red">███   ████</span><span style="color:black">     █████</span><span style="color:red">     █████     █████
+  █████████</span>
+  <span style="color:black">░░███  ░░███    ░░███     ░░█████   ░░█████</span><span style="color:red">  ███</span><span
+  style="color:black">░░░░░███</span>
+  <span style="color:red"> ░███ ███░      ░███      ░███░███ ░███░███░███    ░███</span>
+  <span style="color:red"> ░██████        ░███      ░███ ░░███░███░███░███    ░███</span>
+  <span style="color:red"> ░███░░███      ░███      ░███   ░░███  ░███░███    ░███</span>
+  <span style="color:red"> ░███  ░░███     </span><span style="color:black">░░░</span><span style="color:red">       ░███    ░░░
+  ░███░░█████████</span>
+  <span style="color:red"> █████  █████    █████     █████         █████</span><span style="color:black"> ░░░░░░░░░</span>
+
+
+
+
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer (React, Firebase)**  
 Building production apps with elegant UX, reliable real-time systems, and payment flows that just work.
 
