@@ -1,19 +1,15 @@
 # Kerim David — iOS & Web Developer 👋   (⌐■_■)
 
 
-
-  <span style="color:red">███   ████</span><span style="color:black">     █████</span><span style="color:red">     █████     █████
-  █████████</span>
-  <span style="color:black">░░███  ░░███    ░░███     ░░█████   ░░█████</span><span style="color:red">  ███</span><span
-  style="color:black">░░░░░███</span>
-  <span style="color:red"> ░███ ███░      ░███      ░███░███ ░███░███░███    ░███</span>
-  <span style="color:red"> ░██████        ░███      ░███ ░░███░███░███░███    ░███</span>
-  <span style="color:red"> ░███░░███      ░███      ░███   ░░███  ░███░███    ░███</span>
-  <span style="color:red"> ░███  ░░███     </span><span style="color:black">░░░</span><span style="color:red">       ░███    ░░░
-  ░███░░█████████</span>
-  <span style="color:red"> █████  █████    █████     █████         █████</span><span style="color:black"> ░░░░░░░░░</span>
-
-
+```
+K   K  !!  M   M   OOO
+K  K   !!  MM MM  O   O
+K K    !!  M M M  O   O
+KKK    !!  M   M  O   O
+K K        M   M  O   O
+K  K       M   M  O   O
+K   K      M   M   OOO
+```
 
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer (React, Firebase)**  
@@ -87,3 +83,4 @@ cd web-dashboard
 npm install
 # create .env.local with FIREBASE config and API keys
 npm run dev
+```
